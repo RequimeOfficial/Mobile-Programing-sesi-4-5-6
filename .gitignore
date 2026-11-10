@@ -1,0 +1,6 @@
+# Hasil build & cache (hasil build web Sesi 4 disimpan di sesi-4/hasil_build_web)
+**/build/
+**/.dart_tool/
+**/.idea/
+**/*.iml
+**/test_capture/

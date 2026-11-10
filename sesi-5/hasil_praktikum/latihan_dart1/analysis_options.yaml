@@ -1,0 +1,13 @@
+include: package:lints/recommended.yaml
+
+# Beberapa contoh kode sengaja ditulis persis seperti modul
+# (misalnya print("$kata") dan var x; tanpa tipe), jadi aturan berikut
+# dimatikan agar analisis tetap bersih.
+linter:
+  rules:
+    unnecessary_string_interpolations: false
+    prefer_typing_uninitialized_variables: false
+
+analyzer:
+  errors:
+    dead_code: ignore

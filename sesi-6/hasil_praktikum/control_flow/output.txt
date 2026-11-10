@@ -1,0 +1,97 @@
+Hasil Praktikum Sesi 6 - Struktur Kontrol dan Fungsi
+Ahmad Mofidur Robbiyal Aqla - 2495114006
+
+===== 5.3 If dan Else =====
+Hari ini Libur
+Hari ini Tidak Libur
+B
+D
+nilai -101 tidak diakui
+Tidak Lulus
+Pria belum dewasa
+
+===== 5.4 For =====
+1
+2
+3
+4
+5
+dart
+dart
+dart
+dart
+dart
+
+===== 5.5 For-in =====
+List item: 1
+List item: 2
+List item: 3
+List item: 4
+List item: 5
+Set item: 1
+Set item: 2
+Set item: 3
+Set item: 4
+Set item: 5
+Map a = 1
+Map b = 2
+Map c = 3
+
+===== 5.6 ForEach =====
+forEach List: 1
+forEach List: 2
+forEach List: 3
+forEach List: 4
+forEach List: 5
+forEach Set: 1
+forEach Set: 2
+forEach Set: 3
+forEach Set: 4
+forEach Set: 5
+forEach Map: a -> 1
+forEach Map: b -> 2
+forEach Map: c -> 3
+
+===== 5.7 While =====
+1
+2
+3
+4
+5
+
+===== 5.8 Do-While =====
+Nilai count: 1
+Nilai count: 2
+Nilai count: 3
+Nilai count: 4
+Nilai count: 5
+Nilai count: 10
+
+===== Break dan Continue =====
+Bilangan ganjil: 1
+Bilangan ganjil: 3
+Bilangan ganjil: 5
+Bilangan ganjil: 7
+Bilangan ganjil: 9
+
+===== 5.9 Switch dan Case =====
+Baik
+7
+tidak ada pilihan tersebut
+
+===== Fungsi dan Metode =====
+Halo, selamat belajar Dart!
+Luas 4 x 5 = 20
+kuadrat(7) = 49
+isGenap(10) = true
+Robbi (20 tahun) dari -
+Robbi (20 tahun) dari Jombang
+Robbi (20 tahun) dari Jombang
+Bilangan genap 1-10: [2, 4, 6, 8, 10]
+
+===== Studi Kasus: Rekap Nilai Kelas =====
+Andi: 92 -> A (Sangat Baik), Lulus
+Budi: 78 -> C (Cukup), Lulus
+Citra: 85 -> B (Baik), Lulus
+Dewi: 55 -> D (Kurang), Tidak Lulus
+Rata-rata: 77.50, lulus: 3, tidak lulus: 1

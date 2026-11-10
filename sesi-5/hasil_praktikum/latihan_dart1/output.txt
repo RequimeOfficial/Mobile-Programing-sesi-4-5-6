@@ -1,0 +1,56 @@
+Hasil Praktikum Sesi 5 - Pengantar Bahasa Pemrograman Dart
+Ahmad Mofidur Robbiyal Aqla - 2495114006
+
+===== 4.3 Comments =====
+Komentar tunggal memakai //
+Komentar multi baris memakai /* ... */
+Komentar dokumentasi memakai /// (muncul saat hover)
+
+===== 4.4 Variable =====
+Halo Dart
+Halo Dart
+80
+1996-01-01
+Tahun sekarang: 2026
+7
+Variabel late diisi belakangan
+Variabel late final hanya boleh diisi sekali
+
+===== 4.5 Tipe Data =====
+Halo Dart
+Halo Dart
+5
+5.0
+5.0
+true
+[Apel, Jeruk]
+{buah: Apel}
+Bernilai Benar
+
+===== 4.6 Operator =====
+3
+1
+12
+2.5
+2
+1
+6
+23
+35
+3
+6
+false
+true
+false
+true
+true
+false
+true
+false
+false
+
+===== 4.7 Function =====
+Teks Didalam Fungsi
+Hi, nama saya arif
+Hi, nama saya arif, saya dari Indonesia
+tambah(4, 6) = 10

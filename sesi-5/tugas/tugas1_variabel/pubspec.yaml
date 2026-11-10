@@ -1,0 +1,11 @@
+name: tugas1_variabel
+description: Sesi 5 - Pengantar Bahasa Pemrograman Dart.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.13.5
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
